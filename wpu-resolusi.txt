@@ -1,4 +1,6 @@
 WPU Resolusi
 - Konsisten untuk membuat konten 2x seminggu.
 - Membuat platform untuk pengelolaan video.
-- Membuat Forum DIskusi.
+- Membuat Forum Diskusi.
+- Membuat Merch Shop.
+- Kolaborasi dengan lebih banyak Expert.
